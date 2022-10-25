@@ -1,2 +1,2 @@
-# Kirsten Marklye
+# Zachery Smith
 ## Responsive Design Lesson Starter Files
